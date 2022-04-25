@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8vDXK8E1GrmRFRRNr+dWWiM+g2oVRgXEvPhNXMcy4bb69ymSpN2mb/rSAeonCSAp9Ifg5L20bmabl0GcuxG/9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\C01_Estadistica_deportiva\\Consola\\Consola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
